@@ -1,0 +1,6 @@
+[package]
+name = "mutable"
+version = "0.1.0"
+authors = ["Sam Miller <samillaster@gmail.com>"]
+
+[dependencies]
