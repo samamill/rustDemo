@@ -1,0 +1,6 @@
+[package]
+name = "functions"
+version = "0.1.0"
+authors = ["Kurkio <36017221+Kurkio@users.noreply.github.com>"]
+
+[dependencies]
