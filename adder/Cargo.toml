@@ -1,0 +1,10 @@
+[package]
+name = "adder"
+version = "0.1.0"
+authors = ["Sam Miller <samillaster@gmail.com>"]
+
+[dependencies]
+add-one = { path = "add-one" }
+rand = "0.3.14"
+
+[workspace]
